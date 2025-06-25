@@ -130,7 +130,7 @@
             this.btnTimetables.Location = new System.Drawing.Point(224, 510);
             this.btnTimetables.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnTimetables.Name = "btnTimetables";
-            this.btnTimetables.Size = new System.Drawing.Size(170, 55);
+            this.btnTimetables.Size = new System.Drawing.Size(179, 59);
             this.btnTimetables.TabIndex = 6;
             this.btnTimetables.Text = "Manage Timetables";
             this.btnTimetables.UseVisualStyleBackColor = true;
@@ -142,7 +142,7 @@
             this.btnLogout.Location = new System.Drawing.Point(224, 573);
             this.btnLogout.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnLogout.Name = "btnLogout";
-            this.btnLogout.Size = new System.Drawing.Size(170, 45);
+            this.btnLogout.Size = new System.Drawing.Size(179, 45);
             this.btnLogout.TabIndex = 7;
             this.btnLogout.Text = "Log Out";
             this.btnLogout.UseVisualStyleBackColor = true;
@@ -154,7 +154,7 @@
             this.button2.Location = new System.Drawing.Point(233, 458);
             this.button2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(149, 48);
+            this.button2.Size = new System.Drawing.Size(170, 48);
             this.button2.TabIndex = 10;
             this.button2.Text = "Manage Rooms";
             this.button2.UseVisualStyleBackColor = true;
@@ -176,7 +176,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(902, 629);
+            this.ClientSize = new System.Drawing.Size(822, 629);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btnStudents);

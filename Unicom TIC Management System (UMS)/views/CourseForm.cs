@@ -132,7 +132,7 @@ namespace Unicom_TIC_Management_System__UMS_.Views
             if (e.RowIndex >= 0)
             {
                 DataGridViewRow row = dgvCourse.Rows[e.RowIndex];
-                // Console அல்லது MessageBox கொண்டு columns inspect பண்ணவும்:
+                
                 string courseIdStr = row.Cells["Id"].Value?.ToString();
                 string courseNameStr = row.Cells["CourseName"].Value?.ToString();
 
@@ -159,7 +159,6 @@ namespace Unicom_TIC_Management_System__UMS_.Views
             {
                 DataGridViewRow row = dgvCourse.Rows[e.RowIndex];
 
-                // CourseID (Id) மற்றும் CourseName textbox-ல் நிரப்புங்கள்
                 selectedCourseId = Convert.ToInt32(row.Cells["Id"].Value);
                 txtCourseName.Text = row.Cells["CourseName"].Value.ToString();
             }

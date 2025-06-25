@@ -5,11 +5,11 @@ using Unicom_TIC_Management_System__UMS_.Models;
 
 namespace Unicom_TIC_Management_System__UMS_.Views
 {
-    public partial class NewaccountForm : Form
+    public partial class AccountForm : Form
     {
         private readonly _UserController _controller = new _UserController();
 
-        public NewaccountForm()
+        public AccountForm()
         {
             InitializeComponent();
             cboRole.Items.AddRange(new[] { "admin", "teacher", "student" });
@@ -45,7 +45,7 @@ namespace Unicom_TIC_Management_System__UMS_.Views
             if (result)
             {
                 MessageBox.Show("Registed Successful!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                new NewaccountForm().Show();
+                new AccountForm().Show();
                 this.Hide();
             }
             else

@@ -29,3 +29,34 @@ C:\Users\p.kapil\Downloads\Unicom TIC Management System (UMS)\Unicom TIC Managem
 C:\Users\p.kapil\Downloads\Unicom TIC Management System (UMS)\Unicom TIC Management System (UMS)\obj\Debug\Unicom TIC Management System (UMS).exe
 C:\Users\p.kapil\Downloads\Unicom TIC Management System (UMS)\Unicom TIC Management System (UMS)\obj\Debug\Unicom TIC Management System (UMS).pdb
 C:\Users\p.kapil\Downloads\Unicom TIC Management System (UMS)\Unicom TIC Management System (UMS)\obj\Debug\Unicom TIC Management System (UMS).exe.config
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\bin\Debug\Unicom TIC Management System (UMS).exe.config
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\bin\Debug\Unicom TIC Management System (UMS).exe
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\bin\Debug\Unicom TIC Management System (UMS).pdb
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\bin\Debug\EntityFramework.dll
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\bin\Debug\System.Data.SQLite.dll
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\bin\Debug\EntityFramework.xml
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\bin\Debug\System.Data.SQLite.xml
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom TIC Management System (UMS).csproj.AssemblyReference.cache
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom TIC Management System (UMS).exe.config
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom_TIC_Management_System__UMS_.Properties.Resources.resources
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom_TIC_Management_System__UMS_.Views.CourseForm.resources
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom_TIC_Management_System__UMS_.Views.ExamForm.resources
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom_TIC_Management_System__UMS_.Views.LoginForm.resources
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom_TIC_Management_System__UMS_.Views.MainForm.resources
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom_TIC_Management_System__UMS_.Views.MarkForm.resources
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom_TIC_Management_System__UMS_.Views.RoomForm.resources
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom_TIC_Management_System__UMS_.Views.StudentDashBoard.resources
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom_TIC_Management_System__UMS_.Views.StudentForm.resources
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom_TIC_Management_System__UMS_.Views.SubjectForm.resources
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom_TIC_Management_System__UMS_.Views.TeacherDashBoard.resources
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom_TIC_Management_System__UMS_.Views.TimetableForm.resources
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom TIC Management System (UMS).csproj.GenerateResource.cache
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom TIC Management System (UMS).csproj.CoreCompileInputs.cache
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom T.961D77F9.Up2Date
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom TIC Management System (UMS).exe
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom TIC Management System (UMS).pdb
+C:\Users\p.kapil\OneDrive\Desktop\testing\Unicom TIC Management System (UMS)\obj\Debug\Unicom_TIC_Management_System__UMS_.Views.AccountForm.resources

@@ -31,35 +31,55 @@ namespace Unicom_TIC_Management_System__UMS_.Views
 
         private void btnStudents_Click(object sender, EventArgs e)
         {
+            this.Hide();
             LoadForm(new StudentForm());
+            StudentForm studentForm = new StudentForm();
+
+            studentForm.Show();
         }
     
 
     private void btnCourses_Click(object sender, EventArgs e)
         {
+            this.Hide();
             LoadForm(new CourseForm());
+            CourseForm courseForm = new CourseForm();
+            courseForm.Show();
+           
         }
 
         private void btnSubjects_Click(object sender, EventArgs e)
         {
+            this.Hide();
+            SubjectForm subjectForm = new SubjectForm();
             LoadForm(new SubjectForm());
+            subjectForm.Show();
         }
 
        
 
         private void btnExams_Click(object sender, EventArgs e)
         {
-            LoadForm(new ExamForm()); 
+            this.Hide();
+            ExamForm examForm = new ExamForm();
+            LoadForm(new ExamForm());
+            examForm.Show();
         }
 
         private void btnMarks_Click(object sender, EventArgs e)
         {
-            LoadForm(new MarkForm()); 
+            this.Hide();
+            MarkForm markForm = new MarkForm();
+            LoadForm(new MarkForm());
+            markForm.Show();
         }
 
         private void btnTimetables_Click(object sender, EventArgs e)
         {
-            LoadForm(new TimetableForm()); 
+            this.Hide();
+            TimetableForm timetableForm = new TimetableForm();  
+            LoadForm(new TimetableForm());
+            timetableForm.Show();
         }
 
         private void btnLogout_Click(object sender, EventArgs e)
@@ -73,13 +93,19 @@ namespace Unicom_TIC_Management_System__UMS_.Views
 
         private void button1_Click(object sender, EventArgs e)
         {
-            new NewaccountForm().Show();
             this.Hide();
+            AccountForm accountForm = new AccountForm();
+            LoadForm(new AccountForm());
+            accountForm.Show();
+           
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+            this.Hide();
+            RoomForm roomForm = new RoomForm();
             LoadForm(new RoomForm());
+            roomForm.Show(roomForm);
         }
 
         private void panelMain_Paint(object sender, PaintEventArgs e)
